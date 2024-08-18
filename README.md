@@ -12,8 +12,8 @@ Developing Travel Guardian involved using a combination of HTML, CSS, and JavaSc
 ## Challenges I ran into
 Throughout the development process, I faced several challenges:
 - **Lack of Time:** Balancing the project with other responsibilities meant working with limited time.
-- **Sleep Deprivation:** Late nights and irregular sleep patterns affected my efficiency.
-- **Temperature and House Chores:** Managing varying temperatures and household responsibilities added to the complexity.
+- **Sleep Deprivation:** Not sleeping affected my efficiency.
+- **Temperature and House Chores:** Managing hot temperatures at home and household responsibilities added to the complexity.
 - **Resource Limitations:** I encountered constraints in terms of available resources and tools, which impacted my workflow.
 
 ## Accomplishments I’m proud of
@@ -27,7 +27,7 @@ This experience taught me several valuable lessons:
 
 ## What's next for Travel Guardian
 Looking ahead, I plan to enhance Travel Guardian with the following improvements:
-- **Enhanced Country Checker:** I aim to refine the Country Checker to provide even more specific and actionable insights for users.
-- **Location Checker:** I am developing a Location Checker that will offer detailed information on specific local areas, going beyond country-wide analysis to give users a finer level of detail about their destinations.
+- **Enhanced Country Checker:** I am thinking of aiming to refine the Country Checker to provide even more specific and actionable insights for users.
+- **Location Checker:** I am thinking of developing a Location Checker that will offer detailed information on specific local areas, going beyond country-wide analysis to give users a finer level of detail about their destinations.
 
 Travel Guardian continues to evolve, and I am excited to further develop and expand its capabilities to better serve travelers around the world.
